@@ -1,0 +1,8 @@
+{
+  "collectionName": "components_shared_headers",
+  "info": { "displayName": "Header" },
+  "options": {},
+  "attributes": {
+    "navItems": { "type": "component", "repeatable": true, "component": "shared.nav-item" }
+  }
+}

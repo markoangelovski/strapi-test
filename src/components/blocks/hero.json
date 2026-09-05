@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_heroes",
+  "info": { "displayName": "Hero", "icon": "landscape" },
+  "options": {},
+  "attributes": {
+    "title":                 { "type": "string", "required": true },
+    "subtitle":              { "type": "text" },
+    "announcementText":      { "type": "string" },
+    "announcementLinkLabel": { "type": "string" },
+    "announcementLinkUrl":   { "type": "string" },
+    "primaryCtaLabel":       { "type": "string" },
+    "primaryCtaUrl":         { "type": "string" },
+    "secondaryCtaLabel":     { "type": "string" },
+    "secondaryCtaUrl":       { "type": "string" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "collectionName": "components_shared_footers",
+  "info": { "displayName": "Footer" },
+  "options": {},
+  "attributes": {
+    "linkGroups":    { "type": "component", "repeatable": true, "component": "shared.footer-link-group" },
+    "copyrightText": { "type": "string" }
+  }
+}

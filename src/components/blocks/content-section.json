@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_blocks_content_sections",
+  "info": { "displayName": "Content Section", "icon": "file-alt" },
+  "options": {},
+  "attributes": {
+    "tagline": { "type": "string" },
+    "title":   { "type": "string", "required": true },
+    "body":    { "type": "richtext", "required": true }
+  }
+}
