@@ -23,9 +23,9 @@ const config: Core.Config.Middlewares = [
       headers: '*',
       origin: [
         'http://localhost:3000',
-        'https://strapi-check-prod.angelovski.top',
-        'https://strapi-check-stg.angelovski.top',
         'https://strapi.angelovski.top',
+        'https://stg-strapi.angelovski.top',
+        'https://prod-strapi.angelovski.top'
       ],
     },
   },
